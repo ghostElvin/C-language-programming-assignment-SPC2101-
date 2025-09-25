@@ -1,3 +1,8 @@
+/*
+Name:Elvin Macharia
+Reg no:CT101/G/26559/25
+*/
+
 #include <stdio.h>
 #include <math.h>
 
@@ -25,3 +30,4 @@ int main()
 
     return 0;
 }
+
