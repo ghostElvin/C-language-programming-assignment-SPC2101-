@@ -1,7 +1,7 @@
 // Simple C program(Hello World)single line comment
 /*
 Name:Elvin Macharia
-Reg no:CT101/G/26559
+Reg no:CT101/G/26559/25
 Date:12 sep 
 Description:Program to display all units for this semester
 */
