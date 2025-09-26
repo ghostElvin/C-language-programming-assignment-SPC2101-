@@ -1,6 +1,6 @@
 /*
 Name:Elvin Macharia
-Reg no:26559
+Reg no:CT101/G//26559/25
 Description:C program to check eligibility of loan
 */
 
