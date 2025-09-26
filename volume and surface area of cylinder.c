@@ -1,6 +1,6 @@
 /*
 Name:Elvin Macharia
-Reg no:26559
+Reg no:CT101/G/26559/25
 Description:C program to find the volume and surface area of a cylinder
 volume = pi*r^2*h
 surface area = 2*pi*r^2 + 2*pi*r*h
