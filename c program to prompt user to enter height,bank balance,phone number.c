@@ -1,6 +1,6 @@
 /*
 Name:Elvin Macharia
-Reg no:CT101/G/26559
+Reg no:CT101/G/26559/25
 Description:Program to prompt user to enter height,bank balance,phone number
 */
 #include <stdio.h>
