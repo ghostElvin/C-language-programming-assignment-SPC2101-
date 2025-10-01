@@ -1,3 +1,5 @@
+Name:Elvin Macharia
+Reg no:CT101/G/26559/25
 //preprocessor directive
 #include<stdio.h>
 
@@ -18,4 +20,5 @@ int main(){
         printf("Not eligible for final exam.\n");
     }
     return 0;
+
 }
