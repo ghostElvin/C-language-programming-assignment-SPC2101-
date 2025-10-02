@@ -1,6 +1,6 @@
 /*Name:Elvin Macharia
 Reg no:CT101/G/26559/25
-Description:program to display bill
+Description:program to display water bill
 */
 //preprocessor directive
 #include <stdio.h>
@@ -26,4 +26,5 @@ int main() {
     printf("Total water bill is KES %.2f\n", bill);
     return 0;
 }
+
 
