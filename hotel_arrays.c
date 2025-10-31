@@ -1,8 +1,8 @@
 /*
-Name :Valentine Wanja 
-Registration number :CT101/G/26498/25
+Name :Kagwiria Elvin Macharia
+Registration number :CT101/G/26559/25
 Hotel revenue 
-30/10
+
 */
 #include <stdio.h>
 #include <stdlib.h>
